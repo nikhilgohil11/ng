@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://nikhilgohil11.com/sitemap.xml
+Host: https://nikhilgohil11.com
