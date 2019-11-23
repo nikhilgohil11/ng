@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://nikhilgohil11.com/2017/10/16/learn-python-collection-of-data-list-tuple-and-dictionary-part-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/2017/10/03/learn-python-iteration-for-loop-while-loop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nikhilgohil11.com/2017/06/16/nativescript-project-doesnt-work-after-switching-git-branch/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/2017/10/03/learn-python-variable/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/2017/10/03/learn-python-conditional-statement-if-if-else/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/2017/03/24/how-to-lock-mac-os-x-with-shortcut-keys/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilgohil11.com/2017/06/16/nativescript-project-doesnt-work-after-switching-git-branch/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/portfolios/portfolio-4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/portfolios/portfolio-3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/portfolios/portfolio-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -18,23 +18,23 @@
 <url> <loc>https://nikhilgohil11.com/tags/python/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/tags/learning/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/tags/learning/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nikhilgohil11.com/tags/tns/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nikhilgohil11.com/tags/tns/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nikhilgohil11.com/tags/nativescript/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nikhilgohil11.com/tags/nativescript/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nikhilgohil11.com/tags/NativeScript/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nikhilgohil11.com/tags/NativeScript/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/tags/variable/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/tags/variable/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/tags/Mac OS/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/tags/Mac OS/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/tags/OS X/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/tags/OS X/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilgohil11.com/tags/tns/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilgohil11.com/tags/tns/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilgohil11.com/tags/nativescript/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilgohil11.com/tags/nativescript/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilgohil11.com/tags/NativeScript/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilgohil11.com/tags/NativeScript/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/categories/Python/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/categories/Python/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nikhilgohil11.com/categories/NativeScript/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nikhilgohil11.com/categories/NativeScript/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/categories/Techie/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/categories/Techie/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilgohil11.com/categories/NativeScript/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilgohil11.com/categories/NativeScript/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nikhilgohil11.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
